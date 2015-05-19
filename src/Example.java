@@ -18,5 +18,7 @@ public class Example {
 		} catch (SQLException ex) {
 			System.out.println("Connect fail:" + ex.getMessage());
 		}
+
+		System.out.println("hello");
 	}
 }
