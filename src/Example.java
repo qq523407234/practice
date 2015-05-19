@@ -20,5 +20,7 @@ public class Example {
 		}
 
 		System.out.println("hello");
+		System.out.println("dddd");
+
 	}
 }
