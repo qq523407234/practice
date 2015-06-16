@@ -4,7 +4,7 @@
 * Task3: [需求分析](https://github.com/Class2015-WebSystem/class2015-websystem/wiki/%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3)
 
 ## Team Member 贡献记录
-[飞机](https://github.com/Class2015-WebSystem/class2015-websystem/pulls?q=is%3Apr+is%3Aclosed)
+[飞机](https://github.com/qq523407234/practice/pulls?q=is%3Aopen+is%3Apr)
 
 ---
 ## 基本配置
